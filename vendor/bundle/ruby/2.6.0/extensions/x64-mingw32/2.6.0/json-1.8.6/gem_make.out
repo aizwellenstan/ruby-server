@@ -1,0 +1,13 @@
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/2.6.0 -r ./siteconf20190707-13908-1dd63n1.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

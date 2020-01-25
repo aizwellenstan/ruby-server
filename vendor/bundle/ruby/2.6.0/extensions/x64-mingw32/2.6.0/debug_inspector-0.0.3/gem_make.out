@@ -1,0 +1,16 @@
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/2.6.0 -r ./siteconf20190707-13908-psfeeb.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+generating debug_inspector-x64-mingw32.def
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: C:/Users/aizwe/coding/rails/7/blog/vendor/bundle/ruby/2.6.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20190707-13908-1hrt6qf
